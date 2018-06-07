@@ -130,5 +130,5 @@ Located just off the coast of the Korean peninsula, Jeju Island is the largest v
 
 ### Application Form 
 
-Please click on [here]({file name='Application_Form.docx'}) to download the application form and submit to 
-<a href="Application_Form.docx" download>Click to Download</a> 
+Please click on <a href="Application_Form.docx" download>Click to Download</a>  to download the application form and submit to universitymlcampjeju@gmail.com.  
+
