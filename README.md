@@ -4,6 +4,8 @@
 
 ![1528340503774](https://github.com/universitymlcampjeju/2018/images/1528340503774.png)
 
+[![](D:\universitycamp\2018\images\1528340503774.png)]()
+
 If you have interests in machine learning/deep learning and TensorFlow, you should want to have a chance to implement non-trivial and decent applications for learning machine learning deeply. Here is a good news. We invite you to join the 17-day long Asian University Machine Learning Camp in Jeju 2018, where you can do that and have a fun and unforgettable memory with your friends from other universities. 
 For the period, we will design and train a deep learning model for a specific application using TensorFlow from start-to-finish with your mentor. We might have access to some more mentors/experts to help you to implement your idea. We hope you get the benefit of this wonderful opportunity.
 **All of you guys selected as attendees(mentors and mentees) will be provided with rooms and meals during the camp at Jeju National University. Round-trip airfare to Jeju Island (South Korea) will be covered fully for the mentors and up to 500USD will be supported to each mentee for flights. In addition to these benefits, participants will get valuable and practical experiences in the field of machine learning/deep learning. We look forward to your application!**
