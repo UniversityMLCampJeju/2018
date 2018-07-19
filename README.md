@@ -1,4 +1,4 @@
-# Asian University ML Camp Jeju
+﻿# Asian University ML Camp Jeju
 
 **July 22 ~ August 7, 2018**  
 
@@ -48,6 +48,7 @@ If you’re an expert in the field and interested in sharing your experiences an
 ### Organizing Committee
 
 - Yungcheol Byun, Jeju National University, Korea
+- Jungheong Jin, Jeju Development Center, Korea
 - Lap Nguyen Trung, Hoasen University, Vietnam
 - Bobby D. Gerardo, West Visayas State University, Philippines
 - Tokuro Matsuo, Advanced Institute of Industrial Technology, Japan
@@ -57,19 +58,12 @@ If you’re an expert in the field and interested in sharing your experiences an
 - Chi-Man Pun,  University of Macau, China
 - Satoshi Takahashi, The University of Electronic-Communications, Japan
 
-- (TBA)
-
 ### Hosted by
 
 - Jeju National University
-- Institute of Information Science & Technology
-- (TBA)
-
-### Supported by 
-
 - Jeju Development Center (JDC) 
-- Jeju Special Province
-- (TBA)
+- Institute of Information Science & Technology
+- Research Institute of Advanced Technology
 
 ### Camp Teams
 
