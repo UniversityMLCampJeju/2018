@@ -82,7 +82,7 @@ Located just off the coast of the Korean peninsula, Jeju Island is the largest v
 - **July 1: Selecting candidate(s) of participants by mentors (checking the quality of project and possibility of implementation)**   
 - July 4: Announcement of final attendees by committee 
 - July 15: Mentee-mentor meeting(online/offline) and fix 2-week schedule before joining
-- **July 22: Check-in** 
+- **July 21, 22: Check-in** 
 - July 23: Camp starts with the intensive implementation 
 - August 6: Final presentation
 - August 7: Check-out
